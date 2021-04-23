@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anmol977
+- 👋 Hi, I’m Anmol Chauhan
 - 👀 I’m interested in creating websites
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
