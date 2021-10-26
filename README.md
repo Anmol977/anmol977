@@ -20,7 +20,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50" />](https://webpack.js.org)
 ### JavaScript Frameworks
 [<img src="https://user-images.githubusercontent.com/52422585/138955604-5ff06597-9f61-4a45-b62c-1af0be20abaf.png" alt="react" width="50" height="50"/>](https://reactjs.org/)
-[<img src="https://user-images.githubusercontent.com/52422585/138955922-6249314f-63ef-4766-aea3-55d4c34c60bb.png" alt="angular" width="50" height="50"/>](https://angular.io/)
+[<img src="https://user-images.githubusercontent.com/52422585/138956093-3e598e08-2fca-4118-93db-e44b902532e6.png" alt="angular" width="50" height="50"/>](https://angular.io/)
 ### Backend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
@@ -38,12 +38,6 @@
     <a href="mailto:anmolchauhan977@gmail.com" target="_blank"> anmolchauhan977@gmail.com</a>
   </li>
 </ul>
- 
- 
- 
-
-
-![png-clipart-angularjs-ruby-on-rails-typescript-web-application-icon-hacker-angle-triangle](https://user-images.githubusercontent.com/52422585/138955922-6249314f-63ef-4766-aea3-55d4c34c60bb.png)
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
