@@ -24,7 +24,7 @@
 ### Backend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
+[<img src="https://user-images.githubusercontent.com/52422585/138956169-779301db-b319-40ba-b4bf-f280f71c9f46.png" alt="mysql" width="50" height="50" />](https://www.postgresql.org/)
 
  <h2>Social</h2>
  <ul>
@@ -38,6 +38,7 @@
     <a href="mailto:anmolchauhan977@gmail.com" target="_blank"> anmolchauhan977@gmail.com</a>
   </li>
 </ul>
+
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
