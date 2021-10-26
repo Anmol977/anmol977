@@ -18,12 +18,11 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50" />](https://www.w3.org/Style/CSS)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50" />](https://sass-lang.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="50" height="50" />](https://webpack.js.org)
-
+[<img src="https://user-images.githubusercontent.com/52422585/138955604-5ff06597-9f61-4a45-b62c-1af0be20abaf.png" alt="react" width="50" height="50"/>](https://reactjs.org/)
 ### Backend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
-(https://user-images.githubusercontent.com/52422585/138955366-52979167-bcb9-4a98-93b5-48a87b09dcfa.png)
-="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
 
  <h2>Social</h2>
  <ul>
@@ -39,6 +38,9 @@
 </ul>
  
  
+ 
+ ![react-1-282599](https://user-images.githubusercontent.com/52422585/138955604-5ff06597-9f61-4a45-b62c-1af0be20abaf.png)
+
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
