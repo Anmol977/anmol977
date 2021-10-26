@@ -4,7 +4,7 @@
   <br/>
   <p>I am experienced in Angular and React JavaScript frameworks. While I am comfortable with the front-end role, I find myself acting as a back-end developer most of the times.I am also interested in networking and cloud computing. I am also interested in developing my own simulations of various real-world phenomena.</p>
  </p>
- ### Programming Languages
+ Programming Languages
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="50" height="50" />](https://www.cplusplus.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50" />](https://www.cprogramming.com)
@@ -21,11 +21,7 @@
 ### Backend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
-[<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="50" height="50" />](https://flask.palletsprojects.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="sequelize" width="50" height="50" />](https://sequelize.org)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50" />](https://redis.io)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="50" height="50" />](https://www.nginx.com)
 
  <h2>Social</h2>
  <ul>
