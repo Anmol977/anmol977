@@ -6,7 +6,10 @@
  </p>
  <h2>Social</h2>
  <a href="https://www.linkedin.com/in/anmol-chauhan-13a899157/" target="_blank">LinkedIn </a>
+ <br/>
  <a href="//www.instagram.com/anmolchauhan0210/" target="_blank">Instagram</a>
+ <br/>
+ <a href="anmolchauhan977@gmail.com" target="_blank"> Mail Me</a>
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
