@@ -22,7 +22,7 @@
 ### Backend Development
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50" />](https://nodejs.org)
-[<img src![react-1-282599](https://user-images.githubusercontent.com/52422585/138955366-52979167-bcb9-4a98-93b5-48a87b09dcfa.png)
+(https://user-images.githubusercontent.com/52422585/138955366-52979167-bcb9-4a98-93b5-48a87b09dcfa.png)
 ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="50" height="50" />](https://www.mysql.com)
 
  <h2>Social</h2>
