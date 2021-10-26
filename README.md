@@ -1,8 +1,11 @@
-- 👋 Hi, I’m Anmol Chauhan
-- 👀 I’m interested in creating websites
-- 🌱 I’m currently learning react js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>Hi, I’m Anmol Chauhan</h1>
+<hr>
+<p>
+  <b>I am a full-stack web developer from India.</b>
+  <br/>
+  <p>I am experienced in Angular and React JavaScript frameworks.</p>
+ </p>
+ 
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
