@@ -9,7 +9,7 @@
  <br/>
  <a href="//www.instagram.com/anmolchauhan0210/" target="_blank">Instagram</a>
  <br/>
- <a href="anmolchauhan977@gmail.com" target="_blank"> Mail Me</a>
+ <a href="mailto:anmolchauhan977@gmail.com" target="_blank"> anmolchauhan977@gmail.com</a>
 
 <!---
 anmol977/anmol977 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
