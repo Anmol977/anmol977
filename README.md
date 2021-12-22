@@ -2,7 +2,7 @@
 <p>
   <b>I am a full-stack web developer from India.</b>
   <br/>
-  <p>I am experienced in Angular and React JavaScript frameworks. While I am comfortable with the front-end role but I find myself acting as a back-end developer most of the times. I am also interested in networking and cloud computing. I am also interested in developing my own simulations of various real-world phenomena.</p>
+  <p>I am experienced in Angular and React JavaScript frameworks. While I am comfortable with the front-end role, I find myself acting as a back-end developer most of the times. I am also interested in networking and cloud computing. I am also interested in developing my own simulations of various real-world phenomena.</p>
  </p>
  
 ### Programming Languages
