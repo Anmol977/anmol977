@@ -32,9 +32,6 @@
     <a href="https://www.linkedin.com/in/anmol-chauhan-13a899157/" target="_blank">LinkedIn </a>
   </li>
    <li>
-    <a href="//www.instagram.com/anmolchauhan0210/" target="_blank">Instagram</a>
-  </li>
-   <li>
     <a href="mailto:anmolchauhan977@gmail.com" target="_blank"> anmolchauhan977@gmail.com</a>
   </li>
 </ul>
